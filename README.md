@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I’m Jordan Ngonde Mofa 👋
+
+**Email:** jmofa132005@gmail.com  
+**LinkedIn:** [jordan-ngonde-mofa-546b2430a](https://linkedin.com/in/jordan-ngonde-mofa-546b2430a)  
+**Location:** Fort Worth, TX  
+
+---
+
+### 🎓 About Me
+
+I’m a Junior Computer Science student at the University of North Texas (GPA: 3.7), passionate about software engineering and data-driven technologies. I’m currently seeking a summer 2026 internship in software engineering or data-related fields.
+
+- 🏫 **Education:**  
+  - B.S. in Computer Science, University of North Texas (Expected May 2027)  
+  - A.S. in Web Development & Data Science, Highline College (2023–2024)
+
+- 💡 **Relevant Coursework:**  
+  Data Structures, Algorithms, Programming, Software & Web Development, Computing
+
+---
+
+### 🛠️ Skills
+
+- **Languages:** C++, JavaScript, HTML, Python  
+- **Systems & Tools:** Linux, Microsoft Office Suite, Google Apps  
+- **Core Strengths:** Analytical thinking, problem-solving, teamwork, leadership, communication
+
+---
+
+### 🚀 Technical Projects
+
+- **[Healthcare Website (Team Leader)](https://chelan.highline.edu/~Jordanmofa/home.html)**  
+  Led a team to design and develop a responsive healthcare website using HTML, CSS, and JavaScript. Coordinated responsibilities, managed version control, and implemented multimedia integration.
+
+- **Personal Portfolio Website**  
+  Built a web-based portfolio to showcase coding projects and technical skills, applying modern front-end practices.
+
+---
+
+### 📈 Professional Development
+
+- Attended university workshops on software engineering and data analysis
+- Self-taught Python basics to broaden programming skill set
+
+---
+
+### 📫 Let’s Connect!
+
+- [LinkedIn](https://linkedin.com/in/jordan-ngonde-mofa-546b2430a)
+- Email: jmofa132005@gmail.com
+
+---
+
+### 🌟 Fun Facts
+
+- 🧶 I like to crochet in my free time!
+- 🌍 I speak 3 languages.
+- 💻 Currently learning: Python and more advanced C++
+
+---
 
 <!--
-**jordanmofa/jordanmofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🤝 Open to: Internship opportunities, collaborations, mentorship  
 -->
