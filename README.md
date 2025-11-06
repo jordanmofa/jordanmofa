@@ -32,7 +32,7 @@ I’m a Junior Computer Science student at the University of North Texas (GPA: 3
 - **[Healthcare Website (Team Leader)](https://chelan.highline.edu/~Jordanmofa/home.html)**  
   Led a team to design and develop a responsive healthcare website using HTML, CSS, and JavaScript. Coordinated responsibilities, managed version control, and implemented multimedia integration.
 
-- **Personal Portfolio Website**  
+- **[Personal Portfolio Website](https://jordanmofa.neocities.org/indexnew)**  
   Built a web-based portfolio to showcase coding projects and technical skills, applying modern front-end practices.
 
 ---
