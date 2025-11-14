@@ -22,7 +22,7 @@ I’m a Junior Computer Science student at the University of North Texas (GPA: 3
 ### 🛠️ Skills
 
 - **Languages:** C++, JavaScript, HTML, Python  
-- **Systems & Tools:** Linux, Microsoft Office Suite, Google Apps  
+- **Systems & Tools:** Linux, Microsoft Office Suite, Google Apps, Git, React, js.Node  
 - **Core Strengths:** Analytical thinking, problem-solving, teamwork, leadership, communication
 
 ---
