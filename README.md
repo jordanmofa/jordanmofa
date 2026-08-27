@@ -1,6 +1,6 @@
 # Hi, I’m Jordan Ngonde Mofa 👋
 
-**Email:** jmofa132005@gmail.com  
+**Email:** jordannemofa@gmail.com  
 **LinkedIn:** [jordan-ngonde-mofa-546b2430a](https://linkedin.com/in/jordan-ngonde-mofa-546b2430a)  
 **Location:** Fort Worth, TX  
 
@@ -8,10 +8,10 @@
 
 ### 🎓 About Me
 
-I’m a Junior Computer Science student at the University of North Texas (GPA: 3.7), passionate about software engineering and data-driven technologies. I’m currently seeking a summer 2026 internship in software engineering or data-related fields.
+I’m a Senior Computer Science student at the University of North Texas (GPA: 3.7), passionate about software engineering and data-driven technologies. I’m currently seeking an internship in software engineering, full-stack development, or data-related fields.
 
 - 🏫 **Education:**  
-  - B.S. in Computer Science, University of North Texas (Expected May 2027)  
+  - B.S. in Computer Science, University of North Texas (Expected December 2027)  
   - A.S. in Web Development & Data Science, Highline College (2023–2024)
 
 - 💡 **Relevant Coursework:**  
@@ -21,8 +21,8 @@ I’m a Junior Computer Science student at the University of North Texas (GPA: 3
 
 ### 🛠️ Skills
 
-- **Languages:** C++, JavaScript, HTML, Python  
-- **Systems & Tools:** Linux, Microsoft Office Suite, Google Apps, Git, React, js.Node  
+- **Languages:** C++, JavaScript, HTML, Python, C#, C  
+- **Systems & Tools:** Linux, Microsoft Office Suite, Google Apps, Git, React, js.Node, AWS  
 - **Core Strengths:** Analytical thinking, problem-solving, teamwork, leadership, communication
 
 ---
@@ -32,7 +32,7 @@ I’m a Junior Computer Science student at the University of North Texas (GPA: 3
 - **[Healthcare Website (Team Leader)](https://chelan.highline.edu/~Jordanmofa/home.html)**  
   Led a team to design and develop a responsive healthcare website using HTML, CSS, and JavaScript. Coordinated responsibilities, managed version control, and implemented multimedia integration.
 
-- **[Personal Portfolio Website](https://jordanmofa.neocities.org/indexnew)**  
+- **[Personal Portfolio Website](https://jordanmofa.neocities.org/portfolio)**  
   Built a web-based portfolio to showcase coding projects and technical skills, applying modern front-end practices.
 
 ---
